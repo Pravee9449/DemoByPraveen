@@ -8,14 +8,8 @@ public class SampleTest {
 	public void test()
 	{
 		System.out.println("hi this is sample test");
-		
-		System.out.println("hi this user2");
-		
-		
-		
-		
-		
-	
+		System.out.println("i think conflict understand");
+
 	}
 
 }
