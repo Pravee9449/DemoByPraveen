@@ -9,7 +9,7 @@ public class SampleTest {
 	{
 		System.out.println("hi this is sample test");
 		
-		System.out.println("hi this user2");
+	
 	}
 
 }
