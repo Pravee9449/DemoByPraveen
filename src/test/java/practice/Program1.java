@@ -18,7 +18,7 @@ public class Program1  {
 
 	public static void main(String[] args) {
 		
-		Program1 p=new Program1();
+		Program1 p=new Program1(); 
 		Program2 p2=new Program2();
 		System.out.println(ha);
 		System.out.println(p.b);

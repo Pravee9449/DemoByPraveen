@@ -8,7 +8,7 @@ public class Program2 {
 	{
 		System.out.println("static different class");
 	}
-	public void runthe()
+	public void runthe() 
 	{
 		System.out.println("not static different class");
 	}
